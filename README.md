@@ -26,7 +26,6 @@
 |---------|-------------|------|
 | [Smart Attendance System](https://github.com/theva-prasath/smart-attendance-system) | QR + GPS attendance with auto alerts for absences & bar letters | Django, React, PostgreSQL |
 | [Landslide Detection System](https://github.com/theva-prasath/landslide-detection-system) | Vibration-triggered alert using mbed NXP LPC1768 + SW-420 | ARM Assembly, mbed LPC1768 |
-| [STM32 RTOS Scheduler](https://github.com/theva-prasath/microprocessor-stm32-rtos) | Thread scheduling: round-robin & priority demo | STM32, Keil µVision, CMSIS-RTOS2 |
 | [Coffee Ordering System](https://github.com/theva-prasath/coffee-ordering-system) | Queue, linked list & selection sort — Data Structures project | C++ |
 | [Reverse Parking System](https://github.com/theva-prasath/reverse-parking-system) | Ultrasonic sensor parking detector with LED/buzzer | Arduino, HC-SR04 |
 | [Automated BBQ Pit 🥇](https://github.com/theva-prasath/automated-bbq-pit) | Gold Medal FYP — motorised rotating BBQ pit | Motor Control, Mechanical Design |
