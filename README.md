@@ -1,6 +1,6 @@
 # Hi, I'm Theva Prasath 👋
 
-🎓 Computer Engineering Student @ UTeM (Graduating 2026)  
+🎓 Computer Engineering Student @ UTeM (Graduating 2027)  
 🔧 Interested in Embedded Systems, Microcontrollers & Software Development  
 📍 Seremban, Negeri Sembilan, Malaysia  
 📅 **Open to internship — 20 July to 25 September 2026**
